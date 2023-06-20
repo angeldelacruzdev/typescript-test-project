@@ -1,0 +1,5 @@
+{
+    "enviromment": "development",
+    "connectionString": "Server=myServerAddress;Database=myDatabase;UserId=MyUserName;Password=MyPassword",
+    "apiUrl": "https://api.soft2now.com"
+}
